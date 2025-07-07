@@ -14,3 +14,5 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
 <img width="500px"  alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao060401&layout=compact"/>
+
+![](https://raw.githubusercontent.com/zhao060401/zhao060401/refs/heads/output/github-contribution-grid-snake.svg)
